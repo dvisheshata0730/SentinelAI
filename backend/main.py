@@ -24,7 +24,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-app = FastAPI(title="FirstWave Emergency Dispatcher API")
+app = FastAPI(title="SentinelAI Emergency Dispatcher API")
 
 
 # =============================================================================
@@ -132,7 +132,7 @@ class TTSRequest(BaseModel):
 
 @app.get("/")
 def read_root():
-    return {"message": "FirstWave Emergency Dispatcher API", "status": "running"}
+    return {"message": "SentinelAI Emergency Dispatcher API", "status": "running"}
 
 
 @app.get("/health")
@@ -145,7 +145,7 @@ def health_check():
     - LLM API availability
     - Memory usage
     """
-    return {"status": "ok", "service": "firstwave-dispatcher"}
+    return {"status": "ok", "service": "sentinel-dispatcher"}
 
 
 # =============================================================================

@@ -1,30 +1,19 @@
-# FirstWaveAI - Emergency Dispatch Assistant
+# SentinalAI - Emergency Dispatch Assistant
 
 ---
-
-## 🎥 Demo
-
-<!-- Add demo link here -->
-[Demo Video](https://youtu.be/tViIWf1pbC8)
-
-## 🏆 Devpost
-
-<!-- Add devpost link here -->
-[View on Devpost](https://devpost.com/software/firstwaveai?ref_content=my-projects-tab&ref_feature=my_projects)
-
 ---
 
 ## 💡 Inspiration
 
 📞 Over 240 million emergency calls are made in the United States each year (National Emergency Number Association), putting extreme pressure on dispatchers in life-or-death situations. In those critical first moments, key details can be missed, delayed, or misunderstood when callers are panicking.
 
-FirstWaveAI was built to rethink the emergency intake process. I created an AI-powered call assistant that speaks directly with callers, asks clarifying questions, and structures critical information in real time. The system then visualizes the situation on a live map, identifies nearby resources, and generates an AI-assisted dispatch recommendation, all while keeping a human dispatcher in full control with an approval override. 🚑
+SentinelAI was built to rethink the emergency intake process. I created an AI-powered call assistant that speaks directly with callers, asks clarifying questions, and structures critical information in real time. The system then visualizes the situation on a live map, identifies nearby resources, and generates an AI-assisted dispatch recommendation, all while keeping a human dispatcher in full control with an approval override. 🚑
 
 ---
 
 ## 🚨 What it does
 
-FirstWaveAI is a real-time emergency dispatch assistant that combines speech recognition, multi-agent AI, and interactive visualization to help dispatchers work faster and more accurately.
+SentinelAI is a real-time emergency dispatch assistant that combines speech recognition, multi-agent AI, and interactive visualization to help dispatchers work faster and more accurately.
 
 ---
 
@@ -88,8 +77,8 @@ An interactive Leaflet map displays nearby hospitals, fire stations, police, and
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/firstwave.git
-cd firstwave
+git clone https://github.com/iamabhinavd/SentinelAI.git
+cd sentinalai
 ```
 
 ### 2. Backend Setup
