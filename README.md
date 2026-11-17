@@ -1,13 +1,12 @@
-# SentinalAI - Emergency Dispatch Assistant
+# SentinelAI - AI-Powered Emergency Dispatch Assistant
 
----
 ---
 
 ## 💡 Inspiration
 
 📞 Over 240 million emergency calls are made in the United States each year (National Emergency Number Association), putting extreme pressure on dispatchers in life-or-death situations. In those critical first moments, key details can be missed, delayed, or misunderstood when callers are panicking.
 
-SentinelAI was built to rethink the emergency intake process. I created an AI-powered call assistant that speaks directly with callers, asks clarifying questions, and structures critical information in real time. The system then visualizes the situation on a live map, identifies nearby resources, and generates an AI-assisted dispatch recommendation, all while keeping a human dispatcher in full control with an approval override. 🚑
+SentinelAI was built to rethink the emergency intake process. It is an AI-powered call assistant that speaks directly with callers, asks clarifying questions, and structures critical information in real time. The system then visualizes the situation on a live map, identifies nearby resources, and generates an AI-assisted dispatch recommendation, all while keeping a human dispatcher in full control with an approval override. 🚑
 
 ---
 
@@ -77,8 +76,8 @@ An interactive Leaflet map displays nearby hospitals, fire stations, police, and
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/iamabhinavd/SentinelAI.git
-cd sentinalai
+git clone https://github.com/dvisheshata0730/SentinelAI.git
+cd SentinelAI
 ```
 
 ### 2. Backend Setup
